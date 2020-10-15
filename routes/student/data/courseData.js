@@ -3,7 +3,7 @@ var Random = Mock.Random;
 
 const courseData = Mock.mock({
     "result|6-22": [{
-        "classId|1-1000": 1,
+        "classScheduleId|1-1000": 1,
         "courseId|1-1000": 1,
         "courseName": Random.cname(),
         "courseEnName": Random.name(),
